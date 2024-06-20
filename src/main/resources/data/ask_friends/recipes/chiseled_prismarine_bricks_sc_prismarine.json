@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "result": "ask_friends:chiseled_prismarine_bricks",
+  "count": 1
+}

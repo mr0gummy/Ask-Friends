@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "F",
+    "/"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:dyes"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ask_friends:paint_brush",
+    "count": 1
+  }
+}

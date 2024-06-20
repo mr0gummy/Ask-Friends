@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ask_friends:item/paint_brush_dallie"
+  }
+}

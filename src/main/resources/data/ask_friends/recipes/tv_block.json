@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "#R#",
+    "#F#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_copper_block"
+    },
+    "G": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "R": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "F": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "ask_friends:tv_block",
+    "count": 1
+  }
+}
