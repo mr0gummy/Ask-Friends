@@ -5,9 +5,6 @@ import com.mrgummy.item.ModItemGroups;
 import com.mrgummy.item.ModItems;
 import com.mrgummy.misc.ModCustomTrades;
 import net.fabricmc.api.ModInitializer;
-
-import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
-import net.minecraft.client.render.RenderLayer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,8 +21,7 @@ public class AskFriends implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.TV_BLOCK, RenderLayer.getCutout());
-		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRAWBERRY_MILK, RenderLayer.getCutout());
+
 
 		LOGGER.info("Hello Fabric world!");
 		ModBlocks.regiterModBlock();
