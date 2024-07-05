@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"com.mrgummy.AskFriends"
+		],
+		"client": [
+			"com.mrgummy.AskFriendsClient"
 		]
 	},
 	"mixins": [

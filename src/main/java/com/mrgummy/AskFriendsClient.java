@@ -11,6 +11,5 @@ public class AskFriendsClient implements ClientModInitializer {
 
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.TV_BLOCK, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.STRAWBERRY_MILK, RenderLayer.getCutout());
-
     }
 }

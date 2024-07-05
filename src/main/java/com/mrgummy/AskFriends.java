@@ -23,7 +23,7 @@ public class AskFriends implements ModInitializer {
 
 
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Maybe ask your friends for some prompts it's fun to make such things and their reaction was so fun!(Initializing Ask Friends Main)");
 		ModBlocks.regiterModBlock();
 		ModItems.registerModItem();
 		ModItemGroups.registerItemGroup();
