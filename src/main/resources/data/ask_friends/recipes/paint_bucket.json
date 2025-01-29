@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#B#",
+    " W "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:dyes"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "ask_friends:paint_bucket",
+    "count": 1
+  }
+}

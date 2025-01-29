@@ -23,6 +23,10 @@ public abstract class ItemRendererMixin {
             return ((ItemRendererAccessor) this).askFriends$getModels().getModelManager().getModel(new ModelIdentifier(AskFriends.MOD_ID, "squid_hat_worn", "inventory"));
         } else if (stack.isOf(ModItems.LEO) && renderMode == ModelTransformationMode.HEAD) {
             return ((ItemRendererAccessor) this).askFriends$getModels().getModelManager().getModel(new ModelIdentifier(AskFriends.MOD_ID, "squid_hat_worn", "inventory"));
+        } else if (stack.isOf(ModItems.BANDANA) && renderMode == ModelTransformationMode.HEAD) {
+            return ((ItemRendererAccessor) this).askFriends$getModels().getModelManager().getModel(new ModelIdentifier(AskFriends.MOD_ID, "bandana_worn", "inventory"));
+        } else if (stack.isOf(ModItems.NIGHT_VISION_GOGGLES) && renderMode == ModelTransformationMode.HEAD) {
+            return ((ItemRendererAccessor) this).askFriends$getModels().getModelManager().getModel(new ModelIdentifier(AskFriends.MOD_ID, "night_vision_goggles_worn", "inventory"));
         }
         return value;
 

@@ -25,5 +25,7 @@ public abstract class ModelLoaderMixin {
     public void addScythe(BlockColors blockColors, Profiler profiler, Map<Identifier, JsonUnbakedModel> jsonUnbakedModels, Map<Identifier, List<ModelLoader.SourceTrackedData>> blockStates, CallbackInfo ci) {
         this.addModel(new ModelIdentifier(AskFriends.MOD_ID, "squid_hat_worn", "inventory"));
         this.addModel(new ModelIdentifier(AskFriends.MOD_ID, "sunglasses_worn", "inventory"));
+        this.addModel(new ModelIdentifier(AskFriends.MOD_ID, "bandana_worn", "inventory"));
+        this.addModel(new ModelIdentifier(AskFriends.MOD_ID, "night_vision_goggles_worn", "inventory"));
     }
 }

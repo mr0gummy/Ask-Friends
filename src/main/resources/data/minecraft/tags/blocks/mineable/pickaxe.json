@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "ask_friends:chiseled_prismarine_bricks",
-    "ask_friends:tv_block"
+    "ask_friends:tv_block",
+    "ask_friends:concrete",
+    "ask_friends:opalized_wood"
   ]
 }

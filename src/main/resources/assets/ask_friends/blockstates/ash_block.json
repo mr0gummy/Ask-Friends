@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "layers=1": {
+      "model": "ask_friends:block/ash_block_height2"
+    },
+    "layers=2": {
+      "model": "ask_friends:block/ash_block_height4"
+    },
+    "layers=3": {
+      "model": "ask_friends:block/ash_block_height6"
+    },
+    "layers=4": {
+      "model": "ask_friends:block/ash_block_height8"
+    },
+    "layers=5": {
+      "model": "ask_friends:block/ash_block_height10"
+    },
+    "layers=6": {
+      "model": "ask_friends:block/ash_block_height12"
+    },
+    "layers=7": {
+      "model": "ask_friends:block/ash_block_height14"
+    },
+    "layers=8": {
+      "model": "ask_friends:block/ash_block"
+    }
+  }
+}

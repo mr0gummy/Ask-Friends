@@ -18,12 +18,18 @@ import net.minecraft.util.Identifier;
 import static net.minecraft.block.Blocks.createLightLevelFromLitBlockState;
 
 public class ModBlocks {
-
+    //batch 1
     public static final Block BLOCK_OF_CHEESE =registerBlock("block_of_cheese", new SuggestedBlock(FabricBlockSettings.create().strength(0.2F).sounds(BlockSoundGroup.CANDLE).mapColor(MapColor.OAK_TAN)));
     public static final Block CHISELED_PRISMARINE_BRICKS =registerBlock("chiseled_prismarine_bricks", new SuggestedBlock(FabricBlockSettings.create().mapColor(MapColor.CYAN).instrument(Instrument.BASEDRUM).requiresTool().strength(1.5F, 6.0F)));
     public static final Block GLUE =registerBlock("glue", new GlueBlock(FabricBlockSettings.create().nonOpaque().mapColor(MapColor.ORANGE).pistonBehavior(PistonBehavior.DESTROY).breakInstantly().notSolid()));
     public static final Block STRAWBERRY_MILK = registerBlock("strawberry_milk", new StrawberryMilkBlock(FabricBlockSettings.create().mapColor(MapColor.PINK).strength(0.1F).sounds(BlockSoundGroup.CANDLE)));
     public static final Block TV_BLOCK =registerBlock("tv_block", new TVBlock(FabricBlockSettings.create().mapColor(MapColor.ORANGE).requiresTool().strength(3.0F, 6.0F).sounds(BlockSoundGroup.COPPER).notSolid().nonOpaque().luminance(createLightLevelFromLitBlockState(15)).sounds(BlockSoundGroup.GLASS)));
+
+    //batch 2
+    public static final Block ASH_BLOCK =registerBlock("ash_block", new AshBlock(FabricBlockSettings.create().strength(1).sounds(BlockSoundGroup.SAND)));
+    public static final Block BLOCK_OF_SALT =registerBlock("block_of_salt", new SuggestedBlock(FabricBlockSettings.create().strength(1).sounds(BlockSoundGroup.STONE)));
+    public static final Block CONCRETE =registerBlock("concrete", new SuggestedBlock(FabricBlockSettings.create().mapColor(MapColor.STONE_GRAY).instrument(Instrument.BASEDRUM).requiresTool().strength(0.75F, 3.0F)));
+    public static final Block OPALIZED_WOOD =registerBlock("opalized_wood", new OpalizedWoodBlock(FabricBlockSettings.create().sounds(BlockSoundGroup.ANCIENT_DEBRIS).luminance(2)));
 
 
     private  static Block registerBlock(String name, Block block){
