@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":  "minecraft:water_bucket",
+  "result": {
+    "id": "ask_friends:block_of_salt"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

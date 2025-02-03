@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:emerald",
+    "#minecraft:logs_that_burn",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "ask_friends:opalized_wood",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:milk_bucket",
+        "minecraft:bowl"
+    ],
+    "result": {
+        "id": "ask_friends:butter",
+        "count": 1
+    }
+}

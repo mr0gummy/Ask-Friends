@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cocoa_beans",
+    "minecraft:cocoa_beans",
+    "minecraft:blaze_rod",
+    "minecraft:paper"
+
+  ],
+  "result": {
+    "id": "ask_friends:coffee",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:clay_ball",
+    "W": "minecraft:white_dye"
+  },
+  "result": {
+    "id": "ask_friends:mug",
+    "count": 2
+  }
+}

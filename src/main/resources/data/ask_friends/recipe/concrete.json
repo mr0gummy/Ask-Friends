@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "S#S",
+    "#S#"
+  ],
+  "key": {
+    "#": "minecraft:gravel",
+    "S": "minecraft:sand"
+  },
+  "result": {
+    "id": "ask_friends:concrete",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:melon_slice",
+    "minecraft:melon_slice"
+  ],
+  "result": {
+    "id": "ask_friends:cantaloupe",
+    "count": 2
+  }
+}

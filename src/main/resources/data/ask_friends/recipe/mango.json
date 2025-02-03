@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:apple",
+    "minecraft:apple"
+  ],
+  "result": {
+    "id": "ask_friends:mango",
+    "count": 2
+  }
+}

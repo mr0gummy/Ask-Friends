@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "B"
+  ],
+  "key": {
+    "#": "minecraft:milk_bucket",
+    "B": "minecraft:bread"
+
+  },
+  "result": {
+    "id": "ask_friends:cupcake",
+    "count": 1
+  }
+}

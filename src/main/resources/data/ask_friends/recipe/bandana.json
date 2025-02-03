@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "BB"
+  ],
+  "key": {
+    "#": "minecraft:string",
+    "B": "minecraft:black_wool"
+  },
+  "result": {
+    "id": "ask_friends:bandana",
+    "count": 1
+  }
+}

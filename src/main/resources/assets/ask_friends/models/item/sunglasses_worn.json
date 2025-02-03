@@ -1,0 +1,6 @@
+{
+  "parent": "ask_friends:item/hat_base",
+  "textures": {
+    "hat": "ask_friends:item/sunglasses_head_basic"
+  }
+}

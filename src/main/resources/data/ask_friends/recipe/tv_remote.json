@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "iRi"
+  ],
+  "key": {
+    "#": "#minecraft:buttons",
+    "i": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "ask_friends:tv_remote",
+    "count": 1
+  }
+}

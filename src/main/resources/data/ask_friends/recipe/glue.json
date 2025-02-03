@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:honeycomb",
+    "minecraft:bone_meal",
+    "minecraft:glass_bottle",
+    "minecraft:beetroot_seeds"
+  ],
+  "result": {
+    "id": "ask_friends:glue",
+    "count": 1
+  }
+}

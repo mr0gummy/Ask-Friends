@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:leather",
+    "minecraft:stick",
+    "minecraft:paper"
+
+  ],
+  "result": {
+    "id": "ask_friends:butterfly",
+    "count": 1
+  }
+}

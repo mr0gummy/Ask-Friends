@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/T/"
+  ],
+  "key": {
+    "/": "minecraft:stick",
+    "T": "minecraft:tinted_glass"
+  },
+  "result": {
+    "id": "ask_friends:sunglasses",
+    "count": 1
+  }
+}

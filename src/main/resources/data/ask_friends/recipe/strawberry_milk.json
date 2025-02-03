@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "SDS",
+    " M "
+  ],
+  "key": {
+    "#": "minecraft:pink_dye",
+    "S": "minecraft:sugar",
+    "D": "minecraft:sweet_berries",
+    "M": "minecraft:milk_bucket"
+  },
+  "result": {
+    "id": "ask_friends:strawberry_milk",
+    "count": 1
+  }
+}

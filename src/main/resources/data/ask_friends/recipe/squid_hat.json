@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "ISI",
+    "# #"
+  ],
+  "key": {
+    "#": "minecraft:cyan_wool",
+    "I": "minecraft:ink_sac",
+    "S": "minecraft:string"
+  },
+  "result": {
+    "id": "ask_friends:squid_hat",
+    "count": 1
+  }
+}

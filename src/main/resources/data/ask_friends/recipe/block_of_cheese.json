@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:fermented_spider_eye",
+    "minecraft:milk_bucket"
+  ],
+  "result": {
+    "id": "ask_friends:block_of_cheese",
+    "count": 1
+  }
+}

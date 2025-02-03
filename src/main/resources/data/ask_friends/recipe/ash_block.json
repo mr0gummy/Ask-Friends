@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "#minecraft:logs_that_burn",
+  "result": {
+    "id": "ask_friends:ash_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

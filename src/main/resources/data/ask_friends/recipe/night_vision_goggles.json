@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "# #",
+    "LGL"
+  ],
+  "key": {
+    "#": "minecraft:string",
+    "L": "minecraft:lime_stained_glass_pane",
+    "G": "minecraft:glowstone"
+  },
+  "result": {
+    "id": "ask_friends:night_vision_goggles",
+    "count": 1
+  }
+}
