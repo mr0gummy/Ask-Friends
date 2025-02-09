@@ -41,10 +41,12 @@
   "block.ask_friends.concrete.tooltip": "§7This block was suggested by GentleGiant75",
   "block.ask_friends.opalized_wood": "Opalized Wood",
   "block.ask_friends.opalized_wood.tooltip": "§7This block was suggested by NerdyGayBoi",
+  "block.ask_friends.cloud_block": "Cloud Block",
+  "block.ask_friends.cloud_block.tooltip": "§7This block was suggested by AkieraStraberri3",
 
 
   "item.ask_friends.bandana": "Bandana",
-  "item.ask_friends.bandana.tooltip": "§7This item was suggested by AkieraStraBerri3",
+  "item.ask_friends.bandana.tooltip": "§7This item was suggested by AkieraStraberri3",
   "item.ask_friends.butter": "Butter",
   "item.ask_friends.butter.tooltip": "§7This item was suggested by NerdyGayBoi",
   "item.ask_friends.chainsaw": "Chainsaw",
@@ -54,7 +56,7 @@
   "item.ask_friends.mug": "Mug",
   "item.ask_friends.mug.tooltip": "§7This item was suggested by Official_Zirkon",
   "item.ask_friends.milkshake": "Milkshake",
-  "item.ask_friends.milkshake.tooltip": "§7This item was suggested by AkieraStraBerri3",
+  "item.ask_friends.milkshake.tooltip": "§7This item was suggested by AkieraStraberri3",
   "item.ask_friends.night_vision_goggles": "Night Vision Goggles",
   "item.ask_friends.night_vision_goggles.tooltip": "§7This item was suggested by GentleGiant75",
   "item.ask_friends.paint_bucket": "Paint Bucket",

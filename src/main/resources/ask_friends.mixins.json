@@ -1,8 +1,9 @@
 {
   "required": true,
-  "package": "com.mrgummy.mixin",
+  "package": "dev.mr0gummy.ask_friends.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "GlassBottleItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1
