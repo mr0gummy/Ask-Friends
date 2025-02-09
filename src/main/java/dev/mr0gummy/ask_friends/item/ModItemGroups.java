@@ -1,7 +1,7 @@
-package com.mrgummy.item;
+package dev.mr0gummy.ask_friends.item;
 
-import com.mrgummy.AskFriends;
-import com.mrgummy.block.ModBlocks;
+import dev.mr0gummy.ask_friends.AskFriends;
+import dev.mr0gummy.ask_friends.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

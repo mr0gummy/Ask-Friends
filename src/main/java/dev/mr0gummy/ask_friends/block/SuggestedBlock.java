@@ -1,4 +1,4 @@
-package com.mrgummy.block;
+package dev.mr0gummy.ask_friends.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;

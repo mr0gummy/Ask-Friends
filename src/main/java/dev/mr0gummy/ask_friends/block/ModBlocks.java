@@ -1,6 +1,6 @@
-package com.mrgummy.block;
+package dev.mr0gummy.ask_friends.block;
 
-import com.mrgummy.AskFriends;
+import dev.mr0gummy.ask_friends.AskFriends;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.MapColor;

@@ -1,4 +1,4 @@
-package com.mrgummy.item;
+package dev.mr0gummy.ask_friends.item;
 
 
 import net.minecraft.component.DataComponentTypes;

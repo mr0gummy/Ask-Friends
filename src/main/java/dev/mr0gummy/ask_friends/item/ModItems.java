@@ -1,6 +1,6 @@
-package com.mrgummy.item;
+package dev.mr0gummy.ask_friends.item;
 
-import com.mrgummy.AskFriends;
+import dev.mr0gummy.ask_friends.AskFriends;
 import net.minecraft.item.BlockItem;
 import net.minecraft.component.type.FoodComponent;
 import net.minecraft.item.Item;

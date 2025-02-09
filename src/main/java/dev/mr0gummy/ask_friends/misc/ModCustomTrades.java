@@ -1,6 +1,6 @@
-package com.mrgummy.misc;
+package dev.mr0gummy.ask_friends.misc;
 
-import com.mrgummy.item.ModItems;
+import dev.mr0gummy.ask_friends.item.ModItems;
 import net.fabricmc.fabric.api.object.builder.v1.trade.TradeOfferHelper;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;

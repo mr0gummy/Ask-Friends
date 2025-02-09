@@ -1,4 +1,4 @@
-package com.mrgummy.block;
+package dev.mr0gummy.ask_friends.block;
 
 import com.mojang.serialization.MapCodec;
 import net.minecraft.block.*;

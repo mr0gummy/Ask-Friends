@@ -1,9 +1,9 @@
-package com.mrgummy;
+package dev.mr0gummy.ask_friends;
 
-import com.mrgummy.block.ModBlocks;
-import com.mrgummy.item.ModItemGroups;
-import com.mrgummy.item.ModItems;
-import com.mrgummy.misc.ModCustomTrades;
+import dev.mr0gummy.ask_friends.block.ModBlocks;
+import dev.mr0gummy.ask_friends.item.ModItemGroups;
+import dev.mr0gummy.ask_friends.item.ModItems;
+import dev.mr0gummy.ask_friends.misc.ModCustomTrades;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

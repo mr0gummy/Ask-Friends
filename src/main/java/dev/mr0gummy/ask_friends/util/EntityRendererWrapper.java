@@ -1,4 +1,4 @@
-package com.mrgummy.util;
+package dev.mr0gummy.ask_friends.util;
 
 import net.minecraft.client.render.entity.EntityRendererFactory;
 

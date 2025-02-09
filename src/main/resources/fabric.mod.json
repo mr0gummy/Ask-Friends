@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.mrgummy.AskFriends"
+          "dev.mr0gummy.ask_friends.AskFriends"
 		],
 		"client": [
-			"com.mrgummy.AskFriendsClient"
+          "dev.mr0gummy.ask_friends.AskFriendsClient"
 		]
 	},
 	"mixins": [

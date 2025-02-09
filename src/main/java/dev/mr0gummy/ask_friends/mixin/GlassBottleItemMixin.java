@@ -1,6 +1,6 @@
-package com.mrgummy.mixin;
+package dev.mr0gummy.ask_friends.mixin;
 
-import com.mrgummy.block.ModBlocks;
+import dev.mr0gummy.ask_friends.block.ModBlocks;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.GlassBottleItem;
 import net.minecraft.item.ItemStack;
